@@ -1,5 +1,9 @@
 # infisical-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/infisical-or-just-updated-secrets-manage?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [Infisical template](https://railway.com/deploy/infisical-or-just-updated-secrets-manage?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 Wrapper image for deploying [Infisical](https://github.com/Infisical/infisical) — the
 open-source secrets manager — on [Railway](https://railway.com).
 
